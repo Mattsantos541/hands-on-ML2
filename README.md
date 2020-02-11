@@ -1,0 +1,1 @@
+#Doing exercises along Hands on Machine Learning with Sckit learn, keras, and tensorflow
